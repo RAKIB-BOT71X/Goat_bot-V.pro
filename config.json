@@ -12,14 +12,14 @@
     "antiInbox": false,
     "language": "en",
     "notesLanguage": "change language using ISO 639-1 code",
-    "nickNameBot": "─⃜͢͢͟͟͞͞❥⍣⃟─͢❥𝗥ᴏ𝗕ᴏ𝗧ᥫ⍣⃟─⃜⃜͢͢─❥",
+    "nickNameBot": "Goat_bot🐥",
     "prefix": "/",
     "adminOnly": {
         "enable": false,
         "ignoreCommand": []
     },
     "adminBot": [
-        "100001609058878",
+        "61590001468913",
         " ",
         " "
     ],
@@ -35,8 +35,8 @@
     "whiteListMode": {
         "enable": false,
         "whiteListIds": [
-            "100026793876556",
-            "100001609058878"
+            "61590001468913",
+            "61590001468913"
         ],
         "notes": "If enabled, only IDs in whiteListIds can use the bot."
     },
